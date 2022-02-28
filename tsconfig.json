@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "lib": ["DOM", "DOM.Iterable", "esnext"],           
+    "jsx": "react-jsx",                                
+    "moduleResolution": "node",
+    "allowUmdGlobalAccess": true,                    
+    "resolveJsonModule": true,                                                    
+    /* JavaScript Support */
+    "allowJs": true,                                 
+    /* Emit */                          
+    "noEmit": true,                                   
+    /* Interop Constraints */
+    "isolatedModules": true,                                     
+    "esModuleInterop": true,                                                     
+    "forceConsistentCasingInFileNames": true,
+    /* Type Checking */
+    "strict": true,                                                         
+    /* Completeness */                 
+    "skipLibCheck": true                                 
+  },
+  "include": ["src"]
+}
