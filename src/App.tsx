@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import global from './styles/global.scss';
+//import logo from './logo.svg';
+//import global from './styles/global.scss';
 import { RepositoryList } from './components/RepositoryList';
 
 function App() {
